@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoSdkApplication</string>
+    <string name="video_text">Create and store the meeting code with others that you want to meet with</string>
+    <string name="enter_your_code">Enter your code</string>
+</resources>
